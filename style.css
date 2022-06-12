@@ -1,0 +1,30 @@
+.main-div {
+    display: flex;
+    background-color: aquamarine;
+    flex-direction: row;
+    justify-content: space-between;
+    width:50%;
+    padding:2%;
+    border-radius:10px;
+    margin:10% 0px 0px 24%;
+}
+.div1{
+    border:1px solid rgb(228, 221, 221);
+    margin: 5px;
+    padding:2%;
+    text-align: center;
+    
+}
+.div2{
+    border:1px solid gray;
+    margin: 5px;
+    padding:2%;
+    text-align: center;
+}
+button{
+    color:black;
+    background-color:blanchedalmond;
+    border:none;
+    padding:10px;
+    border-radius:5px;
+}
